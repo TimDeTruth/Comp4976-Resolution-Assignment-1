@@ -16298,6 +16298,21 @@
   "RootNamespace": "ResolutionAssignment",
   "Documents": [
     {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Resolution\\Create.cshtml",
+      "TargetPath": "Views\\Resolution\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Resolution\\Delete.cshtml",
+      "TargetPath": "Views\\Resolution\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16308,8 +16323,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Resolution\\Index.cshtml",
+      "TargetPath": "Views\\Resolution\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Resolution\\Edit.cshtml",
+      "TargetPath": "Views\\Resolution\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Resolution\\Details.cshtml",
+      "TargetPath": "Views\\Resolution\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,6 +16363,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16340,6 +16385,16 @@
     {
       "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\development\\Comp 4976 - Microsoft\\Assignment 1\\ResolutionAssignment\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
