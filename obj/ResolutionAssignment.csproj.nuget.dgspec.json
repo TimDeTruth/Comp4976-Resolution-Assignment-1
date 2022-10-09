@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dinhphilongnguyen/dotnet/Comp4976-Resolution-Assignment-1/ResolutionAssignment.csproj": {}
+    "C:\\SchoolDeveleopment\\Comp4976 - Microsoft Assignment 1\\Folder 4\\Comp4976-Resolution-Assignment-1\\ResolutionAssignment.csproj": {}
   },
   "projects": {
-    "/Users/dinhphilongnguyen/dotnet/Comp4976-Resolution-Assignment-1/ResolutionAssignment.csproj": {
+    "C:\\SchoolDeveleopment\\Comp4976 - Microsoft Assignment 1\\Folder 4\\Comp4976-Resolution-Assignment-1\\ResolutionAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dinhphilongnguyen/dotnet/Comp4976-Resolution-Assignment-1/ResolutionAssignment.csproj",
+        "projectUniqueName": "C:\\SchoolDeveleopment\\Comp4976 - Microsoft Assignment 1\\Folder 4\\Comp4976-Resolution-Assignment-1\\ResolutionAssignment.csproj",
         "projectName": "ResolutionAssignment",
-        "projectPath": "/Users/dinhphilongnguyen/dotnet/Comp4976-Resolution-Assignment-1/ResolutionAssignment.csproj",
-        "packagesPath": "/Users/dinhphilongnguyen/.nuget/packages/",
-        "outputPath": "/Users/dinhphilongnguyen/dotnet/Comp4976-Resolution-Assignment-1/obj/",
+        "projectPath": "C:\\SchoolDeveleopment\\Comp4976 - Microsoft Assignment 1\\Folder 4\\Comp4976-Resolution-Assignment-1\\ResolutionAssignment.csproj",
+        "packagesPath": "C:\\Users\\timmy\\.nuget\\packages\\",
+        "outputPath": "C:\\SchoolDeveleopment\\Comp4976 - Microsoft Assignment 1\\Folder 4\\Comp4976-Resolution-Assignment-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dinhphilongnguyen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\timmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

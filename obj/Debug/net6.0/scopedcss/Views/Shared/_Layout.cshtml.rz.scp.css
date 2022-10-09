@@ -8,30 +8,31 @@ a.navbar-brand[b-1ftupbgk5b] {
 }
 
 a[b-1ftupbgk5b] {
-  color: #0077cc;
+  color: #3f9e28;
 }
 
 .btn-primary[b-1ftupbgk5b] {
-  color: #fff;
-  background-color: #1b6ec2;
+  color: #3f9e28;
+  background-color: #3f9e28;
   border-color: #1861ac;
 }
 
-.nav-pills .nav-link.active[b-1ftupbgk5b], .nav-pills .show > .nav-link[b-1ftupbgk5b] {
+.nav-pills .nav-link.active[b-1ftupbgk5b],
+.nav-pills .show > .nav-link[b-1ftupbgk5b] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
 .border-top[b-1ftupbgk5b] {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #3f9e28;
 }
 .border-bottom[b-1ftupbgk5b] {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #3f9e28;
 }
 
 .box-shadow[b-1ftupbgk5b] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
 }
 
 button.accept-policy[b-1ftupbgk5b] {

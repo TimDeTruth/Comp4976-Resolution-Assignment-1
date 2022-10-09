@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "zpPxmJjwsPaloBJzSokWS177lhAQy0K74trbeof3A+k=",
+  "Hash": "OhNVMbDokgl71+Mr2sFfG7cIJ6wASVtXGo12cQpR6Go=",
   "Source": "ResolutionAssignment",
   "BasePath": "_content/ResolutionAssignment",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
